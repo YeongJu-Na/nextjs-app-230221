@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <h1>
-        <Link href="/"> WEB </Link>
+        <Link href="/"> WEB2 </Link>
       </h1>
       <ol>
         <li><Link href="/read/1">html</Link></li>
